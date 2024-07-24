@@ -1,26 +1,22 @@
-# <h1 align="center">Hi 👋, I'm Yash Purbhe</h1>
-<h3 align="center">A Passionate AIML engineer currently pursuing a degree in CSE(AIML) in SCOE</h3>
+# Hi 👋, I'm Yash Purbhe</h1>
+### A Passionate AIML engineer currently pursuing a degree in CSE(AIML) in SCOE</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile%20views&color=0e75b6&style=flat" alt="yashpurbhe123" /> </p>
 
 - 🔭 I’m currently working on **Machine learning Projects**
-
 - 🌱 I’m currently learning **NLP, LLM, courses etc.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yashpurbhe123](https://github.com/Yashpurbhe123)
-
 - 💬 Ask me about **Python and Machine Learning**
-
 - 📫 Reach me through my email 👉 **yashpurbhe123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-purbhe-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-purbhe-/" height="30" width="40" /></a>
-</p>
+## Socials
 
-<h3 align="left">Languages and Tools:</h3>
+- [LinkedIn](https://www.linkedin.com/in/yash-purbhe-/)
+
+
+ ## Tech Stack
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -45,9 +41,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+## GitHub Stats & Streaks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact" alt="yashpurbhe123" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en" alt="yashpurbhe123" /></p>
+## Most Used Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&" alt="yashpurbhe123" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact)
