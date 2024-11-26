@@ -11,12 +11,12 @@
 - 💬 Ask me about **Python and Machine Learning**
 - 📫 Reach me through my email 👉 **yashpurbhe123@gmail.com**
 
-## Socials
+## 🌐 Socials
 
-- [LinkedIn](https://www.linkedin.com/in/yash-purbhe-/)
+<a href="https://www.linkedin.com/in/yash-purbhe-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-purbhe-/" height="30" width="40" /></a>
 
 
- ## Tech Stack
+ ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -45,11 +45,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## GitHub Stats & Streaks
+# 📊 GitHub Stats & Streaks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&)
+![](https://github-readme-stats.vercel.app/api?username=yashpurbhe123&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&theme=react&hide_border=false)<br/>
 
-## Most Used Languages
+# Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpurbhe123&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
