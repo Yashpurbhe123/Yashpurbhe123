@@ -1,22 +1,32 @@
-# Hi 👋, I'm Yash Purbhe</h1>
-### A Passionate AIML engineer currently pursuing a degree in CSE(AIML) in SCOE</h3>
+# Hi 👋, I'm **Yash Purbhe**  
+### 🚀 A Passionate AIML Engineer  
+
+📚 Currently pursuing a degree in **CSE (AIML)** at **SCOE**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile%20views&color=0e75b6&style=flat" alt="yashpurbhe123" /> </p>
 
-- 🔭 I’m currently working on **Machine learning Projects**
-- 🌱 I’m currently learning **NLP, LLM, courses etc.**
-- 👨‍💻 All of my projects are available at [https://github.com/Yashpurbhe123](https://github.com/Yashpurbhe123)
-- 💬 Ask me about **Python and Machine Learning**
-- 📫 Reach me through my email 👉 **yashpurbhe123@gmail.com**
+---
 
-## 🌐 Socials
+### 🌟 About Me:
+- 🔭 **Currently Working On:** Machine Learning Projects  
+- 🌱 **Learning:** NLP, LLMs, and Advanced AI Techniques  
+- 💬 **Ask Me About:** Python, Machine Learning, and Data Analysis  
+- 📫 **Reach Me At:** [yashpurbhe123@gmail.com](mailto:yashpurbhe123@gmail.com)  
+- 👨‍💻 **Explore My Projects:** [GitHub Profile](https://github.com/Yashpurbhe123)  
 
-<a href="https://www.linkedin.com/in/yash-purbhe-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-purbhe-/" height="30" width="40" /></a>
+---
 
+## 🌐 **Connect With Me:**
 
- ## 💻 Tech Stack
+<a href="https://www.linkedin.com/in/yash-purbhe/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
+ ## 💻 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -44,12 +54,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-# 📊 GitHub Stats & Streaks
+## 📊 **GitHub Stats:**
 
 ![](https://github-readme-stats.vercel.app/api?username=yashpurbhe123&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&theme=react&hide_border=false)<br/>
 
-# Most Used Languages
+---
+
+## 🏆 **Most Used Languages:**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpurbhe123&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
