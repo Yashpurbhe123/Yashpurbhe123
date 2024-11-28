@@ -58,13 +58,14 @@
 
 ## 📊 **GitHub Stats:**
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en" alt="yashpurbhe123" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en" alt="yashpurbhe123" /></p>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&" alt="yashpurbhe123" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&" alt="yashpurbhe123" /></p>
 
 ---
 
 ## 🏆 **Most Used Languages:**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact" alt="yashpurbhe123" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact" alt="yashpurbhe123" /></p>
+
