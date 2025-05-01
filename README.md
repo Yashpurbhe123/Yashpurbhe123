@@ -20,7 +20,7 @@
 
 ## 🌐 **Connect With Me:**
 
-<a href="www.linkedin.com/in/yashpurbhe" target="_blank">
+<a href="https://www.linkedin.com/in/yashpurbhe/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
