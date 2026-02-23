@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpurbhe/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpurbhe123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashpurbhe123)
-[![YouTube](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpurbhe123)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpurbhe123)
 
 
 </div>
@@ -207,17 +207,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yashpurbhe/" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@yashpurbhe123" target="_blank">
-  <img src="https://img.shields.io/badge/Read_My_Articles-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:yashpurbhe123@gmail.com">
-  <img src="https://img.shields.io/badge/Hire_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpurbhe/)
+[![Medium](https://img.shields.io/badge/Read_My_Articles-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpurbhe123)
+[![Gmail](https://img.shields.io/badge/Hire_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:yashpurbhe123@gmail.com)
+
 
 </div>
 
