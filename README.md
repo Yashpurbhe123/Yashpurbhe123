@@ -3,7 +3,7 @@
 
 📚 Currently pursuing a degree in **CSE (AIML)** at **SCOE**
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile%20views&color=0e75b6&style=flat" alt="yashpurbhe123" /> </p>
 
@@ -56,15 +56,21 @@
 
 ---
 
-## 📊 **GitHub Stats:**
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpurbhe123&show_icons=true&locale=en" alt="yashpurbhe123" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpurbhe123&" alt="yashpurbhe123" /></p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashpurbhe123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashpurbhe123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=ffffff&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img width="50%" src="https://streak-stats.demolab.com/?user=yashpurbhe123&theme=dark&hide_border=true&background=0D1117&stroke=4A90D9&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 🏆 **Most Used Languages:**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpurbhe123&show_icons=true&locale=en&layout=compact" alt="yashpurbhe123" /></p>
 
