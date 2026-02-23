@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a6b,100:1560BD&height=220&section=header&text=Yash%20Purbhe&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20AIML%20Engineer%20·%20Deep%20Learning%20·%20NLP%20·%20Generative%20AI&descAlignY=58&descSize=16&descColor=7EB8F7" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=1560BD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yash+👋;Building+Intelligent+Systems+🤖;Deep+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1560BD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Yash+%F0%9F%91%8B;Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile+Views&color=1560BD&style=flat-square" />
 &nbsp;
