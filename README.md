@@ -1,58 +1,155 @@
-# Hi 👋, I'm **Yash Purbhe**  
-### 🚀 A Passionate AIML Engineer  
+<div align="center">
 
-📚 Currently pursuing a degree in **CSE (AIML)** at **SCOE**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a6b,100:1560BD&height=220&section=header&text=Yash%20Purbhe&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20AIML%20Engineer%20·%20Deep%20Learning%20·%20NLP%20·%20Generative%20AI&descAlignY=58&descSize=16&descColor=7EB8F7" />
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=1560BD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yash+👋;Building+Intelligent+Systems+🤖;Deep+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile%20views&color=0e75b6&style=flat" alt="yashpurbhe123" /> </p>
+<img src="https://komarev.com/ghpvc/?username=yashpurbhe123&label=Profile+Views&color=1560BD&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/yashpurbhe123?label=Followers&style=flat-square&color=1560BD" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-1560BD?style=flat-square" />
 
----
-
-### 🌟 About Me:
-- 🔭 **Currently Working On:** Machine Learning Projects  
-- 🌱 **Learning:** NLP, LLMs, and Advanced AI Techniques  
-- 💬 **Ask Me About:** Python, Machine Learning, and Data Analysis  
-- 📫 **Reach Me At:** [yashpurbhe123@gmail.com](mailto:yashpurbhe123@gmail.com)  
-- 👨‍💻 **Explore My Projects:** [GitHub Profile](https://github.com/Yashpurbhe123)  
+</div>
 
 ---
 
-## 🌐 **Connect With Me:**
+### 🌟 About Me
+
+- 🔭 **Currently Working On:** End-to-end Machine Learning & GenAI Projects
+- 🌱 **Learning:** Large Language Models, RAG Pipelines & Advanced NLP Techniques
+- 💼 **Open To:** Internships, Research Collaborations & Full-Time AI/ML Roles
+- 💬 **Ask Me About:** Python, Machine Learning, Deep Learning & Data Analysis
+- 📝 **Writing:** Technical articles on AI/ML at [Medium](https://medium.com/@yashpurbhe123)
+- 📫 **Reach Me At:** [yashpurbhe123@gmail.com](mailto:yashpurbhe123@gmail.com)
+- 👨‍💻 **Explore My Work:** [GitHub Profile](https://github.com/Yashpurbhe123)
+
+---
+
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/yashpurbhe/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+&nbsp;
+<a href="https://github.com/Yashpurbhe123" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://medium.com/@yashpurbhe123" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+&nbsp;
+<a href="mailto:yashpurbhe123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
 
 ---
 
- ## 💻 **Tech Stack**
+## 🚀 TECH STACK & EXPERTISE
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?style=flat-square&logo=deep-learning&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-4DB6AC?style=flat-square&logo=natural-language-processing&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-8CC84B?style=flat-square&logo=nltk&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ═══════════════ ROW 1 — FULL WIDTH ═══════════════ -->
+
+<div align="center">
+
+### 🧠 AI & Machine Learning &nbsp;·&nbsp; 📊 Data Science & Analytics
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1E3A8A?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-4B0082?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-6A1B9A?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<!-- ═══════════ DIVIDER 1 ═══════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd3d,100:1a3a6b&height=4&section=header" />
+
+<!-- ═══════════════ ROW 2 — 2 COLUMNS ═══════════════ -->
+
+<table border="0" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+<td width="1px" style="border-left: 2px solid #1561bd3d; padding:0;"></td>
+<td width="50%" valign="top" align="center">
+
+### ⚙️ Backend & API Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════ DIVIDER 2 ═══════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd3d,100:1560BD&height=4&section=header" />
+
+<!-- ═══════════════ ROW 3 — 2 COLUMNS ═══════════════ -->
+
+<table border="0" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</td>
+<td width="1px" style="border-left: 2px solid #1561bd3d; padding:0;"></td>
+<td width="50%" valign="top" align="center">
+
+### 🛠️ Tools & Dev Environment
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,4 +170,66 @@
 
 ---
 
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="16" width="100%">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🚀_NASA-Hackathon_Finalist-0B3D91?style=for-the-badge" /><br/>
+  <sub>Space Apps Challenge</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🌐_Google-Hackathon_Finalist-4285F4?style=for-the-badge" /><br/>
+  <sub>Google Developer Challenge</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/☁️_Google_Cloud-Skill_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <sub>20+ Course & Lab Badges</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/📝_Technical-Blogger-12100E?style=for-the-badge&logo=medium&logoColor=white" /><br/>
+  <sub>AI/ML Articles on Medium</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashpurbhe123&bg_color=0D1117&color=4A90D9&line=1560BD&point=7EB8F7&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+**If you find my work helpful, consider giving a ⭐ — it means a lot!**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yashpurbhe/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@yashpurbhe123" target="_blank">
+  <img src="https://img.shields.io/badge/Read_My_Articles-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:yashpurbhe123@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1560BD,50:1a3a6b,100:0D1117&height=120&section=footer" />
